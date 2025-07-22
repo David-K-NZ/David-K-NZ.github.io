@@ -7,5 +7,5 @@ skills:
 - Solidworks modelling for FEA
 - Client communications
 - Finite Element Analysis
-main-image: /project.webp 
+main-image: _projects/Rollover-Protection-Frame/Screenshot 2025-07-22 161616.png
 ---

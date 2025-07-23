@@ -7,6 +7,5 @@ skills:
 - Solidworks modelling for FEA
 - Client communications
 - Finite Element Analysis
-main-image:
-{% include image-gallery.html images="_projects/Rollover-Protection-Frame/Screenshot 2025-07-22 161616.png" height="400" %}
+main-image: include image-gallery.html images="_projects/Rollover-Protection-Frame/Screenshot 2025-07-22 161616.png" height="400"
 ---

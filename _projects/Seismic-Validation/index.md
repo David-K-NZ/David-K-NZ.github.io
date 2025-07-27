@@ -6,7 +6,8 @@ skills:
 - Understanding of regulations to use various Standards
 - Hand Calculations
 - Communication with clients
-- Managing time & senior enigneer expectations
+- Time management
+- Presentation to Senior Engineers
 - Finite Element Analysis
 main-image: /Screenshot 2025-07-27 211225.png 
 ---

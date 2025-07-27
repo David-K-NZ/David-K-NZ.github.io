@@ -7,6 +7,7 @@ skills:
 - Hand Calculations
 - Application of standards
 - Finite Element Analysis
+- Design Review & Redesign
 main-image: /Screenshot 2025-07-27 211440.png
 ---
 

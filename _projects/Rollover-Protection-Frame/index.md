@@ -4,9 +4,11 @@ title: Rollover Protection Frame
 description:  Rollover protection frame design for a hydrogen storage vessel. Design based on regulation, validated through analysis. Iterative design based on client requirements
 skills: 
 - Critical Path Analysis
-- Solidworks modelling for FEA
-- Client communications
+- Solidworks Modelling
+- Client Communications
 - Finite Element Analysis
+- Project/Client Management
+
 main-image: /Screenshot 2025-07-22 161616.png
 ---
 

@@ -8,7 +8,7 @@ skills:
 - Communication with clients
 - Managing time & senior enigneer expectations
 - Finite Element Analysis
-main-image: /project.webp 
+main-image: Screenshot 2025-07-27 211225.png 
 ---
 
 ## Project Story

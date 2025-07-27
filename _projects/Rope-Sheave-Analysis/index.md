@@ -7,7 +7,7 @@ skills:
 - Hand Calculations
 - Application of standards
 - Finite Element Analysis
-main-image: Screenshot 2025-07-27 211440.png
+main-image: /Screenshot 2025-07-27 211440.png
 ---
 
 ## Project Story

@@ -15,8 +15,8 @@ title: David Knight's Portfolio # This is what shows up in the tab of the browse
 name: David Knight
 headline: Mechanical Design Engineer
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  Mechanical Design Engineer trained in Christchurch, NZ. Three years of experience across mechanical consulting & small assembly design.
-  Skilled with 3D CAD, FEA, and CFD tools for engineering design, along with coding in MATLAB/Python for engineering applications. Driven, hardworking,
+  Mechanical Design Engineer trained at the University of Canterbury in Christchurch, NZ. Three years of experience across mechanical consulting & mechanical equipment design.
+  Skilled with 3D CAD, FEA, and CFD tools for engineering design, along with coding in MATLAB/Python for engineering applications. Familiar with designing for regulatory compliance across a wide range of industries & standard families. Driven, hardworking,
   and ready to develop my skills in the UK engineering market.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
@@ -87,7 +87,7 @@ skills:
 
 
 # Contact Form Setup. Setup an account and copy over the key. When someone fills out the form, it will be received in your email.
-formspree-key:   https://formspree.io/f/{8-digit key}
+formspree-key:   https://formspree.io/f/xrblkkzv
 
 
 

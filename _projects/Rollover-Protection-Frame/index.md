@@ -21,6 +21,7 @@ A client was completing a design for a vehicle-mounted Hydrogen slush tank to be
 
 ### Project Images/Screenshots
 
+
 One of three load cases to be applied to the frame- horizontal load at central corner, as if truck has directly rolled sideways and was applying worst case load for the frame strength:
 
 ![Applied Load](/_projects/Rollover-Protection-Frame/Screenshot%202025-07-22%20161959.png)

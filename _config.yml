@@ -55,27 +55,35 @@ skills:
   - category: Prototyping
     tools:
     - 3D Printing
-    - Machining (Turning, milling, and hand tools)
+    - Machining (Turning, Milling, Hand & Power Tools)
+    - Welding (Stick, MIG)
     - CNC programming
-    - Batch run ordering
+    - Small VOlume Production Ordering
+    - Quality Control/Supplier Validation
     
   - category: Design Standards / Practices
     tools:
     - AS/NZS Standard families
     - BS/EN Standards
-    - Designing for regulatory compliance  
-  - category: PCB Design
+    - Designing for Regulatory Compliance 
+    - Solution Space from Multiple Standards
+    
+
+  - category: Project Management
     tools:
-    - Altium Designer
-    - Altium
-    - Eagle 
-    - KiCad
+    - PRINCE2 Foundation Qualified
+    - APM PFQ Qualified
+    - Project Budget Awareness 
+    - Construction Terminology & Process
+    - Document Management (Aconex)
+    - PM Software (MS Project)
+
   - category: Problem Solving / Risk Management
     tools:
     - Root Cause Analysis (e.g., 5 Whys, Fishbone Diagram)
     - DFMEA / PFMEA 
     - Six Sigma methodologies
-    - Shain Red-X
+    - Critical Path Analysis
 
 
 # Contact Form Setup. Setup an account and copy over the key. When someone fills out the form, it will be received in your email.

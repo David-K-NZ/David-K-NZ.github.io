@@ -18,6 +18,6 @@ A client was completing a design for a vehicle-mounted Hydrogen slush tank to be
 
 Initial Load case - horizontal load applied at central corner of the frame, ultimate displacements shown with a 20x scaling to check model was deforming as expected under the load.
 
-![img] (_projects/Rollover-Protection-Frame/Screenshot 2025-07-22 161721.png)
+![FEA Loadcase](/_projects/Rollover-Protection-Frame/Screenshot%202025-07-22%20161721.png)
+// filepath: c:\Users\hillk\Documents\GitHub\David-K-NZ.github.io\_projects\Rollover-Protection-Frame\index.md
 
-(_projects/Rollover-Protection-Frame/Screenshot 2025-07-22 161721.png)
